@@ -1,6 +1,7 @@
-# Machine Listening Lectures
+# About
 
-This website will soon provide the lecture material on the topic of machine listening.
+This website will soon provide the slides & materials for the lecture **Computational Analysis of Sound and Music**, 
+which will be held during the summer semester 2024 at the [TU Ilmenau](https://www.tu-ilmenau.de/).
 
 Please contact Dr.-Ing. Jakob Abeßer @ <jakob.abesser@idmt.fraunhofer.de> for questions.
 
