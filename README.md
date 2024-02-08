@@ -1,2 +1,2 @@
-# casm.github.io
-Computational Analysis of Sounds and Music
+# Computational Analysis of Sounds and Music
+
