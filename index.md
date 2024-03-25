@@ -45,7 +45,7 @@ Last update: 25.03.2024
 - M3 - Music Transcription 1/2
 - M4 - Music Transcription 2/2
 - M5 - Source Separation
-- M6 - Music Tagging
+- M6 - Music Tagging & Similarity
 
 ### Environmental Sound Analysis
 
