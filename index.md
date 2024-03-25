@@ -1,28 +1,28 @@
 # About
 
-This website will soon provide the slides & materials for the lecture **Computational Analysis of Sound and Music**, 
+This website will soon provide the slides & materials for the lecture [Computational Analysis of Sound and Music](https://www.tu-ilmenau.de/modultafeln/?fnqall=201260), 
 which will be held during the summer semester 2024 at the [TU Ilmenau](https://www.tu-ilmenau.de/).
 
 Please contact Dr.-Ing. Jakob Abeßer @ <jakob.abesser@idmt.fraunhofer.de> for questions.
 
-Last update: 08.02.2024
+Last update: 25.03.2024
 
 ## Schedule
 
-| Week                    | Lecture 1 |                             Lecture 2 |
-|-------------------------|:---------:|--------------------------------------:|
-| 1  (08.04.-14.04.2024)  |    A1     |                                    A2 |
-| 2  (15.04.-21.04.2024)  |    A3     |                                    D1 |
-| 3  (22.04.-28.04.2024)  |    D2     |                                    D3 |
-| 4  (29.04.-05.05.2024)  |    M1     |                                    M2 |
-| 5  (06.05.-12.05.2024)  |    M3     |                                    M4 |
-| 6  (13.05.-19.05.2024)  |    M5     |                                    M6 |
-| 7  (20.05.-26.05.2024)  |    E1     |                                    E2 |
-| 8  (27.05.-02.06.2024)  |    E3     |                                    E4 |
-| 9  (03.06.-09.06.2024)  |    P1     |                                    P2 |
-| 10  (10.06.-16.06.2024) |    P3     |                                    P4 |
-| 11  (17.06.-22.06.2024) |    P5     |                                    P6 |
-| 12  (24.06.-30.06.2024) |    P7     | FINAL PRESENTATION (@Fraunhofer IDMT) |
+| Week                    | Lecture 1 | Lecture 2 |
+|-------------------------|:---------:|----------:|
+| 1  (08.04.-14.04.2024)  |    A1     |        A2 |
+| 2  (15.04.-21.04.2024)  |    A3     |        D1 |
+| 3  (22.04.-28.04.2024)  |    D2     |        D3 |
+| 4  (29.04.-05.05.2024)  |    M1     |        M2 |
+| 5  (06.05.-12.05.2024)  |    M3     |        M4 |
+| 6  (13.05.-19.05.2024)  |    M5     |        M6 |
+| 7  (20.05.-26.05.2024)  |    E1     |        E2 |
+| 8  (27.05.-02.06.2024)  |    E3     |        E4 |
+| 9  (03.06.-09.06.2024)  |    P1     |        P2 |
+| 10  (10.06.-16.06.2024) |    P3     |        P4 |
+| 11  (17.06.-22.06.2024) |    P5     |        P6 |
+| 12  (24.06.-30.06.2024) |    P7     |        P8 |
 
 ## Lecture Content
 
