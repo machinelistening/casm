@@ -13,7 +13,7 @@ Last update: 29.03.2024
 
 - A1 - Introduction & Audio Domains
   - [Jupyter Notebook (ipynb)](CASM_A_1_Audio_Domains.ipynb)
-  - [Open in Google Colab](https://colab.research.google.com/github/machinelistening/machinelistening.github.io/casm/notebooks/blob/master/CASM_A_1_Audio_Domains.ipynb)
+  - [Open in Google Colab](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_A_1_Audio_Domains.ipynb)
 - A2 - Audio & Time Frequency Representations
 - A3 - Sound Perception
 
