@@ -31,7 +31,9 @@ Last update: 25.03.2024
 
 ### Audio Processing
 
-- A1 - Introduction & Audio Domains
+- A1 - Introduction & Audio Domains 
+  - [Slides: Part 1 (PDF)](lectures/CASM_0_Introduction.pdf), [Slides: Part 2 (PDF)](lectures/CASM_A_1_Audio_Domains.pdf),  
+  - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_A_1_Audio_Domains.ipynb)
 - A2 - Audio & Time Frequency Representations
 - A3 - Sound Perception
 
