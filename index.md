@@ -5,7 +5,7 @@ which will be held during the summer semester 2024 at the [TU Ilmenau](https://w
 
 Please contact Dr.-Ing. Jakob Abeßer @ <jakob.abesser@idmt.fraunhofer.de> for questions.
 
-Last update: 08.04.2024
+Last update: 10.04.2024
 
 ## Schedule
 
@@ -33,8 +33,12 @@ Last update: 08.04.2024
 
 - A1 - Introduction & Audio Domains 
   - [Slides: Part 1 (PDF)](lectures/CASM_0_Introduction.pdf), [Slides: Part 2 (PDF)](lectures/CASM_A_1_Audio_Domains.pdf),  
+  - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_A_1_Audio_Domains.ipynb)
   - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_A_1_Audio_Domains.ipynb)
 - A2 - Audio & Time Frequency Representations
+  - [Slides (PDF)](lectures/CASM_A_2_Audio_Time_Frequency_Representations.pdf)
+  - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_A_2_Audio_Time_Frequency_Representations.ipynb)
+  - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_A_2_Audio_Time_Frequency_Representations.ipynb)
 - A3 - Sound Perception
 
 ### Machine Learning / Deep Learning
