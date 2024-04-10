@@ -9,6 +9,9 @@ Last update: 10.04.2024
 
 ## Schedule
 
+- **Lecture 1**: Tuesday 9:00-10:30, Seminar room H1519
+- **Lecture 2**: Thursday 9:00-10:30, Seminar room K2039  
+
 | Week                    | Lecture 1 | Lecture 2 | 
 |-------------------------|:---------:|----------:|
 | 1  (08.04.-14.04.2024)  |    A1     |        A2 |
