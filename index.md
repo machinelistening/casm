@@ -43,6 +43,9 @@ Last update: 10.04.2024
   - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_A_2_Audio_Time_Frequency_Representations.ipynb)
   - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_A_2_Audio_Time_Frequency_Representations.ipynb)
 - A3 - Sound Perception
+  - [Slides (PDF)](lectures/CASM_A_3_Sound_Perception.pdf)
+  - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_A_3_Sound_Perception.ipynb)
+  - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_A_3_Sound_Perception.ipynb)
 
 ### Machine Learning / Deep Learning
 
