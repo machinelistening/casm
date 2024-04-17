@@ -1,6 +1,6 @@
 # About
 
-This website will soon provide the slides & materials for the lecture [Computational Analysis of Sound and Music](https://www.tu-ilmenau.de/modultafeln/?fnqall=201260), 
+This website provides the slides & materials for the lecture [Computational Analysis of Sound and Music](https://www.tu-ilmenau.de/modultafeln/?fnqall=201260), 
 which will be held during the summer semester 2024 at the [TU Ilmenau](https://www.tu-ilmenau.de/).
 
 Please contact Dr.-Ing. Jakob Abeßer @ <jakob.abesser@idmt.fraunhofer.de> for questions.
@@ -50,6 +50,10 @@ Last update: 10.04.2024
 ### Machine Learning / Deep Learning
 
 - D1 - Machine Learning
+  - [Slides (PDF)](lectures/CASM_DL_1_Machine_Learning.pdf)
+  - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_DL_1_Machine_Learning.ipynb)
+  - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_DL_1_Machine_Learning.ipynb)
+
 - D2 - Deep Learning - Fundamentals
 - D3 - Deep Learning – Network Architectures
 
