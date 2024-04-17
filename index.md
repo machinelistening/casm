@@ -5,7 +5,11 @@ which will be held during the summer semester 2024 at the [TU Ilmenau](https://w
 
 Please contact Dr.-Ing. Jakob Abeßer @ <jakob.abesser@idmt.fraunhofer.de> for questions.
 
-Last update: 10.04.2024
+Last update: 17.04.2024
+
+## Licence 
+
+All lecture material is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Schedule
 
