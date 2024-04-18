@@ -55,8 +55,8 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
 
 - D1 - Machine Learning
   - [Slides (PDF)](lectures/CASM_DL_1_Machine_Learning.pdf)
-  - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_DL_1_Machine_Learning.ipynb)
-  - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_DL_1_Machine_Learning.ipynb)
+  - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_D_1_Machine_Learning.ipynb)
+  - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_D_1_Machine_Learning.ipynb)
 
 - D2 - Deep Learning - Fundamentals
 - D3 - Deep Learning – Network Architectures
