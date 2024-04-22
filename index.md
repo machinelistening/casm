@@ -59,6 +59,10 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
   - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_D_1_Machine_Learning.ipynb)
 
 - D2 - Deep Learning - Fundamentals
+  - [Slides (PDF)](lectures/CASM_DL_2_Deep_Learning_Fundamentals.pdf)
+  - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_D_2_Deep_Learning_Fundamentals.ipynb)
+  - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_D_2_Deep_Learning_Fundamentals.ipynb)
+
 - D3 - Deep Learning – Network Architectures
 
 ### Music Information Retrieval
