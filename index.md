@@ -16,23 +16,23 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
 - **Lecture 1**: Tuesday 9:00-10:30, Seminar room H1519
 - **Lecture 2**: Thursday 9:00-10:30, Seminar room K2039  
 
-| Week                    | Lecture 1 | Lecture 2 | 
-|-------------------------|:---------:|----------:|
-| 1  (08.04.-14.04.2024)  |    A1     |        A2 |
-| 2  (15.04.-21.04.2024)  |    A3     |        D1 |
-| 3  (22.04.-28.04.2024)  |    D2     |        D3 |
-| 4  (29.04.-05.05.2024)  | M1 (P*)  |        M2 |
-| 5  (06.05.-12.05.2024)  |    M3     |        M4 |
-| 6  (13.05.-19.05.2024)  |    M5     |        M6 |
-| 7  (20.05.-26.05.2024)  |    E1     |        E2 |
-| 8  (27.05.-02.06.2024)  |    E3     |        E4 |
-| 9  (03.06.-09.06.2024)  |    P1     |        P2 |
-| 10  (10.06.-16.06.2024) |    P3     |        P4 |
-| 11  (17.06.-22.06.2024) |    P5     |        P6 |
-| 12  (24.06.-30.06.2024) |    P7     |    (P**) |
+| Week                    | Lecture 1 |        Lecture 2 | 
+|-------------------------|:---------:|-----------------:|
+| 1  (08.04.-14.04.2024)  |    A1     |               A2 |
+| 2  (15.04.-21.04.2024)  |    A3     |               D1 |
+| 3  (22.04.-28.04.2024)  |    D2     |               D3 |
+| 4  (29.04.-05.05.2024)  |  M1 (P*)  |               M2 |
+| 5  (06.05.-12.05.2024)  |    M3     | (public holiday) |
+| 6  (13.05.-19.05.2024)  |    M4     |               M5 |
+| 7  (20.05.-26.05.2024)  |    M6     |               E1 |
+| 8  (27.05.-02.06.2024)  |    E2     |               E3 |
+| 9  (03.06.-09.06.2024)  |    E4     |               P1 |
+| 10  (10.06.-16.06.2024) |    P2     |               P3 |
+| 11  (17.06.-22.06.2024) |    P4     |               P5 |
+| 12  (24.06.-30.06.2024) |    P6     |           P7(**) |
 
 - (P*) Topic presentation for research project
-- (P**) Submission deadline for research paper + Presentation of research papers (5 min) at Fraunhofer IDMT
+- (**) Submission deadline for research paper + Presentation of research papers (5 min) at Fraunhofer IDMT
 
 ## Lecture Content
 
@@ -92,6 +92,5 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
 - P4 - Processing Pipeline
 - P5 - Evaluation & Metrics
 - P6 - Scientific Writing & Visualization
-- P7 - Wrap Up
-- P8 - Research Project Presentation (@Fraunhofer IDMT)
+- P7 - Research Project Presentation (@Fraunhofer IDMT)
 
