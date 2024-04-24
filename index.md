@@ -5,7 +5,7 @@ which will be held during the summer semester 2024 at the [TU Ilmenau](https://w
 
 Please contact Dr.-Ing. Jakob Abeßer @ <jakob.abesser@idmt.fraunhofer.de> for questions.
 
-Last update: 17.04.2024
+Last update: 24.04.2024
 
 ## Licence 
 
@@ -64,6 +64,9 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
   - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_D_2_Deep_Learning_Fundamentals.ipynb)
 
 - D3 - Deep Learning – Network Architectures
+  - [Slides (PDF)](lectures/CASM_DL_3_Deep_Learning_Network_Architectures.pdf)
+  - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_DL_3_Deep_Learning_Network_Architectures.ipynb)
+  - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_DL_3_Deep_Learning_Network_Architectures.ipynb)
 
 ### Music Information Retrieval
 
