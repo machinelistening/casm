@@ -71,6 +71,8 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
 ### Music Information Retrieval
 
 - M1 - Rhythmic Analysis
+  - [Slides (PDF)](lectures/CASM_MIR_1_Rhythmic_Analysis.pdf)
+  - [Possible Research Projects (PDF)](lectures/CASM_Research_Project_Topics.pdf)
 - M2 - Harmonic Analysis
 - M3 - Music Transcription 1/2
 - M4 - Music Transcription 2/2
