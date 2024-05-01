@@ -5,7 +5,7 @@ which will be held during the summer semester 2024 at the [TU Ilmenau](https://w
 
 Please contact Dr.-Ing. Jakob Abeßer @ <jakob.abesser@idmt.fraunhofer.de> for questions.
 
-Last update: 24.04.2024
+Last update: 01.05.2024
 
 ## Licence 
 
@@ -74,6 +74,12 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
   - [Slides (PDF)](lectures/CASM_MIR_1_Rhythmic_Analysis.pdf)
   - [Possible Research Projects (PDF)](lectures/CASM_Research_Project_Topics.pdf)
 - M2 - Harmonic Analysis
+  - [Slides (PDF)](lectures/CASM_MIR_2_Harmonic_Analysis.pdf)
+  - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_MIR_2_Harmonic_Analysis.ipynb)
+  - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_MIR_2_Harmonic_Analysis.ipynb)
+
+
+
 - M3 - Music Transcription 1/2
 - M4 - Music Transcription 2/2
 - M5 - Source Separation
