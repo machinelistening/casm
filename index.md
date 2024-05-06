@@ -77,10 +77,10 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
   - [Slides (PDF)](lectures/CASM_MIR_2_Harmonic_Analysis.pdf)
   - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_MIR_2_Harmonic_Analysis.ipynb)
   - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_MIR_2_Harmonic_Analysis.ipynb)
-
-
-
 - M3 - Music Transcription 1/2
+  - [Slides (PDF)](lectures/CASM_MIR_3_Music_Transcription_1.pdf)
+  - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_MIR_3_Music_Transcription_1.ipynb)
+  - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_MIR_3_Music_Transcription_1.ipynb)
 - M4 - Music Transcription 2/2
 - M5 - Source Separation
 - M6 - Music Tagging & Similarity
