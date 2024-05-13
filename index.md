@@ -5,7 +5,7 @@ which will be held during the summer semester 2024 at the [TU Ilmenau](https://w
 
 Please contact Dr.-Ing. Jakob Abeßer @ <jakob.abesser@idmt.fraunhofer.de> for questions.
 
-Last update: 01.05.2024
+Last update: 13.05.2024
 
 ## Licence 
 
@@ -82,6 +82,9 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
   - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_MIR_3_Music_Transcription_1.ipynb)
   - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_MIR_3_Music_Transcription_1.ipynb)
 - M4 - Music Transcription 2/2
+  - [Slides (PDF)](lectures/CASM_MIR_4_Music_Transcription_2.pdf)
+  - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_MIR_4_Music_Transcription_2.ipynb)
+  - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_MIR_4_Music_Transcription_2.ipynb)
 - M5 - Source Separation
 - M6 - Music Tagging & Similarity
 
