@@ -101,6 +101,9 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
   - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_ESA_1_Sound_Event_Detection_1.ipynb)
   - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_ESA_1_Sound_Event_Detection_1.ipynb)
 - E2 - Sound Event Detection 2/2
+  - [Slides (PDF)](lectures/CASM_ESA_2_Sound_Event_Detection_2.pdf)
+  - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_ESA_2_Sound_Event_Detection_2.ipynb)
+  - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_ESA_2_Sound_Event_Detection_2.ipynb)
 - E3 - Acoustic Scene Analysis
 - E4 - Acoustic Anomaly Detection
 
