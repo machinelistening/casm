@@ -5,7 +5,7 @@ which will be held during the summer semester 2024 at the [TU Ilmenau](https://w
 
 Please contact Dr.-Ing. Jakob Abeßer @ <jakob.abesser@idmt.fraunhofer.de> for questions.
 
-Last update: 18.05.2024
+Last update: 03.06.2024
 
 ## Licence 
 
@@ -109,6 +109,9 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
   - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_ESA_3_Acoustic_Scene_Classification.ipynb)
   - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_ESA_3_Acoustic_Scene_Classification.ipynb)
 - E4 - Acoustic Anomaly Detection
+  - [Slides (PDF)](lectures/CASM_ESA_4_Acoustic_Anomaly_Detection.pdf)
+  - [Seminar Jupyter Notebook (direct download)](notebooks/CASM_ESA_4_Acoustic_Anomaly_Detection.ipynb)
+  - [Seminar Jupyter Notebook (will open in Google Colab)](https://colab.research.google.com/github/machinelistening/casm/blob/main/notebooks/CASM_ESA_4_Acoustic_Anomaly_Detection.ipynb)
 
 ### Research Project
 
