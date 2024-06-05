@@ -115,11 +115,9 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
 
 ### Research Project
 
-- P1 - Introduction
-- P2 - Literature Review
-- P3 - Dataset Review
-- P4 - Processing Pipeline
-- P5 - Evaluation & Metrics
-- P6 - Scientific Writing & Visualization
-- P7 - Research Project Presentation (@Fraunhofer IDMT)
+- P0 - Logistics
+  - [Slides (PDF)](lectures/CASM_PRO_0_Logistics.pdf)
+- P1 - Literature Review
+  - [Slides (PDF)](lectures/CASM_PRO_1_Literature_Research.pdf)
+
 
