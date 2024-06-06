@@ -115,6 +115,8 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
 
 ### Research Project
 
+- [List of projects](https://fraunhofer-my.sharepoint.com/:x:/g/personal/jakob_abesser_idmt_fraunhofer_de/EW-2-X1NOLlDl1UhWKdsIdkBn_D2YgdeUmNL22hSBswHDw?e=4ZBwZM)
+
 - P0 - Logistics
   - [Slides (PDF)](lectures/CASM_PRO_0_Logistics.pdf)
 - P1 - Literature Review
