@@ -123,5 +123,6 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
   - [Slides (PDF)](lectures/CASM_PRO_1_Literature_Research.pdf)
 - P1 - Literature Review 2 + Citations
   - [Slides (PDF)](lectures/CASM_PRO_2_Literature_Research_2.pdf)
+  - [BibTex Template for different reference types](lectures/bibtex_template.bib)
 
 
