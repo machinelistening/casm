@@ -5,7 +5,7 @@ which will be held during the summer semester 2024 at the [TU Ilmenau](https://w
 
 Please contact Dr.-Ing. Jakob Abeßer @ <jakob.abesser@idmt.fraunhofer.de> for questions.
 
-Last update: 03.06.2024
+Last update: 12.06.2024
 
 ## Licence 
 
@@ -121,8 +121,10 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
   - [Slides (PDF)](lectures/CASM_PRO_0_Logistics.pdf)
 - P1 - Literature Review
   - [Slides (PDF)](lectures/CASM_PRO_1_Literature_Research.pdf)
-- P1 - Literature Review 2 + Citations
+- P2 - Literature Review 2 + Citations
   - [Slides (PDF)](lectures/CASM_PRO_2_Literature_Research_2.pdf)
   - [BibTex Template for different reference types](lectures/bibtex_template.bib)
+- P3 - Scientic Writing
+  - [Slides (PDF)](lectures/CASM_PRO_3_Scientific_Writing.pdf)
 
 
