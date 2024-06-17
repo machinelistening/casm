@@ -126,5 +126,8 @@ All lecture material is licensed under [Creative Commons Attribution-NonCommerci
   - [BibTex Template for different reference types](lectures/bibtex_template.bib)
 - P3 - Scientic Writing
   - [Slides (PDF)](lectures/CASM_PRO_3_Scientific_Writing.pdf)
+- P4 - Tables & Figures
+  - [Slides (PDF)](lectures/CASM_PRO_4_Tables_Figures.pdf)
+
 
 
